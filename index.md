@@ -15,6 +15,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### B.S. in Computer Science and Mathematical Sciences 2016--2020
 
+## Research and Publication
+
+### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/pdf/2006.16385.pdf)
+Wenxin Ding, Nihar B. Shah, Weina Wang
+
+## Teaching Assistant
+
+- 15110 Principles of Computing
+- 15213 Introduction to Computer Systems
+- 15440 Distributed Systems
+
+## Awards
+
+- 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
+- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
