@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Wenxin (Freda) Ding
+
+I am a fifth year master’s student in the Computer Science department at Carnegie Mellon University. I received my bachelor’s degrees in Computer Science and Mathematical Sciences from CMU in 2020. I am jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. My senior thesis focuses on the privacy-utility tradeoff in peer-review data analysis. My research interest lies in privacy-preserving data analytics and machine learning.
+
 
 You can use the [editor on GitHub](https://github.com/wenxind/wenxind.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
