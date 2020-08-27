@@ -18,7 +18,7 @@ Email: [wenxind@andrew.cmu.edu](wenxind@andrew.cmu.edu)
 
 ## Research and Publication
 
-### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/pdf/2006.16385.pdf)
+### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385)
 Wenxin Ding, Nihar B. Shah, Weina Wang
 
 ## Teaching Assistant
