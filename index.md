@@ -4,7 +4,7 @@ I am a fifth year master’s student in the Computer Science department at Carne
 
 
 
-Email: wenxind at andrew.cmu.edu
+Email: wenxind `[at]` andrew.cmu.edu
 
 
 ## Education
