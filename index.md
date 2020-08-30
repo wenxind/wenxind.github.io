@@ -23,7 +23,7 @@ Wenxin Ding, Nihar B. Shah, Weina Wang
 
 ## Teaching Assistant
 
-- 15110 Principles of Computing
+- 15110 Principles of Computing (Head TA)
 - 15213 Introduction to Computer Systems
 - 15440 Distributed Systems
 
