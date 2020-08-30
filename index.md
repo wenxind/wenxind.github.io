@@ -18,7 +18,7 @@ Email: wenxind at andrew.cmu.edu
 
 ## Research and Publication
 
-### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385)
+### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 Wenxin Ding, Nihar B. Shah, Weina Wang
 
 ## Teaching Assistant
@@ -30,7 +30,7 @@ Wenxin Ding, Nihar B. Shah, Weina Wang
 ## Awards
 
 - 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
-- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship)
+- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
 
 
 
