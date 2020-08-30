@@ -10,11 +10,11 @@ Email: `wenxind [at] andrew.cmu.edu`
 ## Education
 
 ### Carnegie Mellon University
--M.S. in Computer Science (Research Thesis) 2020--2021
+- M.S. in Computer Science (Research Thesis) 2020--2021
 
--B.S. in Computer Science with College and University Honor 2016--2020
+- B.S. in Computer Science with College and University Honor 2016--2020
 
--B.S. in Mathematical Sciences with College and University Honor 2016--2020
+- B.S. in Mathematical Sciences with College and University Honor 2016--2020
 
 ## Research and Publication
 
@@ -23,14 +23,14 @@ Wenxin Ding, Nihar B. Shah, Weina Wang
 
 ## Teaching Assistant
 
--15110 Principles of Computing (Head TA)
--15213 Introduction to Computer Systems
--15440 Distributed Systems
+- 15110 Principles of Computing (Head TA)
+- 15213 Introduction to Computer Systems
+- 15440 Distributed Systems
 
 ## Awards
 
--2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
--[2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
+- 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
+- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
 
 
 
