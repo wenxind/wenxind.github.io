@@ -10,11 +10,11 @@ Email: `wenxind [at] andrew.cmu.edu`
 ## Education
 
 ### Carnegie Mellon University
-- M.S. in Computer Science (Research Thesis) 2020--2021
+- M.S. in **Computer Science (Research Thesis)** 2020--2021
 
-- B.S. (Hons) in Computer Science            2016--2020
+- B.S. (Hons) in **Computer Science** 2016--2020
 
-- B.S. (Hons) in Mathematical Sciences       2016--2020
+- B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Research and Publication
 
