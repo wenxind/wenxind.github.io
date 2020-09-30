@@ -31,6 +31,7 @@ Wenxin Ding, Nihar B. Shah, Weina Wang
 
 - 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
 - [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
+- 2020 Senior Leadership Recognition
 
 
 
