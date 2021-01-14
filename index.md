@@ -20,6 +20,7 @@ Email: `wenxind [at] andrew.cmu.edu`
 
 ### [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 Wenxin Ding, Nihar B. Shah, Weina Wang
+
 AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021 (spotlight)
 
 ## Teaching Assistant
