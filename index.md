@@ -4,7 +4,7 @@ I am a PhD student in the Computer Science department at The University of Chica
 
 
 
-Email: `wenxind [at] uchicago.cmu.edu`
+Email: `wenxind [at] uchicago.edu`
 
 
 ## Education
