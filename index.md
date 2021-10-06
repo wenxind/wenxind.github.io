@@ -18,12 +18,12 @@ Email: `wenxind [at] uchicago.edu`
 
 ## Paper and Thesis
 
-- [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis (click for paper)](https://arxiv.org/abs/2006.16385){:target="_blank"}
+- [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 Wenxin Ding, Nihar B. Shah, Weina Wang
 
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021 spotlight (click for video presentation)](https://youtu.be/SoMBIdWKoNY){:target="_blank"}*
 
-- Calibration with Privacy in Peer Review: A Theoretical Study
+- [Calibration with Privacy in Peer Review: A Theoretical Study](http://reports-archive.adm.cs.cmu.edu/anon/anon/home/ftp/usr/ftp/2021/CMU-CS-21-127.pdf){:target="_blank"}
 
 ## Teaching Assistant
 
