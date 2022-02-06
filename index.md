@@ -1,6 +1,6 @@
 # About Me
 
-I am a PhD student in the Computer Science department at The University of Chicago. I am advised by Prof. Heather Zheng. My research interest lies in theoretical computer science and machine learning. I received my bachelor’s degrees in Computer Science and Mathematical Sciences from Carnegie Mellon University in 2020. I received my master's degress in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
+I am a PhD student in the Computer Science department at The University of Chicago. I am advised by Prof. Heather Zheng. My research interest lies in theoretical computer science and machine learning. I received my bachelor’s degrees in Computer Science and Mathematical Sciences from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
 
 
 
@@ -13,7 +13,7 @@ Email: `wenxind [at] uchicago.edu`
 - PhD student in **Computer Science** 2021--
 
 ### Carnegie Mellon University
-- M.S. in **Computer Science (Research Thesis)** 2020--2021
+- M.S. in **Computer Science -- Research Thesis** 2020--2021
 
 - B.S. (Hons) in **Computer Science** 2016--2020
 
@@ -26,7 +26,8 @@ Wenxin Ding, Nihar B. Shah, Weina Wang
 
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021 spotlight (click for video presentation)](https://youtu.be/SoMBIdWKoNY){:target="_blank"}*
 
-- [Calibration with Privacy in Peer Review: A Theoretical Study](http://reports-archive.adm.cs.cmu.edu/anon/anon/home/ftp/usr/ftp/2021/CMU-CS-21-127.pdf){:target="_blank"}
+- [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
+  - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop 2022 spotlight
 
 ## Teaching Assistant
 
