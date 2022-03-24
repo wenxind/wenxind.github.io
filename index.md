@@ -22,12 +22,12 @@ Email: `wenxind [at] uchicago.edu`
 ## Paper and Thesis
 
 - [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
-Wenxin Ding, Nihar B. Shah, Weina Wang
+(**Wenxin Ding**, Nihar B. Shah, Weina Wang)
 
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021 spotlight (click for video presentation)](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}*
 
 - [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
-Wenxin Ding, Gautam Kamath, Weina Wang, Nihar B Shah
+(**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop 2022 spotlight (click for video presentation)](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
 
 ## Teaching Assistant
@@ -39,8 +39,8 @@ Wenxin Ding, Gautam Kamath, Weina Wang, Nihar B Shah
 
 ## Awards
 
-- 2021 Eckhardt Scholar
-- 2020 Senior Leadership Recognition
+- 2021 University of Chicago Eckhardt Scholar
+- 2020 Carnegie Mellon University Senior Leadership Recognition
 - [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
 - 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
 
