@@ -19,7 +19,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
-## Paper and Thesis
+## Publication
 
 - [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 (**Wenxin Ding**, Nihar B. Shah, Weina Wang)
