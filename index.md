@@ -21,14 +21,15 @@ Email: `wenxind [at] uchicago.edu`
 
 ## Publication
 
+- [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
+(**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
+  - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop 2022 spotlight (click for video presentation)](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
+
 - [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 (**Wenxin Ding**, Nihar B. Shah, Weina Wang)
 
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021 spotlight (click for video presentation)](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}*
 
-- [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
-(**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
-  - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop 2022 spotlight (click for video presentation)](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
 
 ## Teaching Assistant
 
