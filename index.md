@@ -1,6 +1,6 @@
 # About Me
 
-I am a PhD student in the Computer Science department at The University of Chicago. I am advised by Prof. Heather Zheng. My research interest lies in theoretical computer science and machine learning. I received my bachelor’s degrees in Computer Science and Mathematical Sciences from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
+I am a PhD student in the Computer Science department at The University of Chicago. I am advised by Prof. Heather Zheng and Prof. Ben Zhao. My research focuses on security and privacy in machine learning. I received my bachelor’s degrees in Computer Science and Mathematical Sciences from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
 
 
 
