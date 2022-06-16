@@ -21,6 +21,9 @@ Email: `wenxind [at] uchicago.edu`
 
 ## Publication
 
+- [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686)
+(Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
+
 - [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
 (**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
   - *[AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop 2022 spotlight (click for video presentation)](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
