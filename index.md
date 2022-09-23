@@ -23,6 +23,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686)
 (Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
+  - 2022 ACM Conference on Computer and Communications Security (CCS)
 
 - [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
 (**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
