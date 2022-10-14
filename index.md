@@ -45,7 +45,7 @@ Email: `wenxind [at] uchicago.edu`
 ## Awards
 
 - 2021 University of Chicago Eckhardt Scholar
-- 2020 Carnegie Mellon University Senior Leadership Recognition
+- [2020 Carnegie Mellon University Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr){:target="_blank"}
 - [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
 - 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
 
