@@ -22,7 +22,7 @@ Email: `wenxind [at] uchicago.edu`
 ## Publication
 
 - [Lower Bounds on 0−1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
-(Sihui Dai*, **Wenxin Ding***, Arjun Nitin Bhagoji, Daniel Cullina, Prateek Mittal, Ben Y. Zhao)
+(Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Prateek Mittal, Ben Y. Zhao)
   - 2022 NeurIPS Workshop on Machine Learning Safety 
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686)
