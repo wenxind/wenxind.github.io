@@ -1,6 +1,6 @@
 # About Me
 
-I am a third-year PhD student in the Computer Science department at **University of Chicago**. I am advised by Prof. Heather Zheng and Prof. Ben Zhao. My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
+I am a third-year PhD student in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/). My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
 
 
 
@@ -23,7 +23,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Lower Bounds on 0−1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
 (Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Prateek Mittal, Ben Y. Zhao)
-  - 2022 NeurIPS Workshop on Machine Learning Safety 
+  - Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023) (**Spotlight**)
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686)
 (Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
