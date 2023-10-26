@@ -21,6 +21,10 @@ Email: `wenxind [at] uchicago.edu`
 
 ## Publication
 
+- [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
+(Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
+  - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+
 - [Lower Bounds on 0−1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
 (Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Prateek Mittal, Ben Y. Zhao)
   - Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023) (**Spotlight**)
@@ -40,6 +44,9 @@ Email: `wenxind [at] uchicago.edu`
 
 
 ## Teaching Assistant
+
+### University of Chicago
+- CMSC 25300/35300 Mathematical Foundations of Machine Learning
 
 ### Carnegie Mellon University
 - 15110 Principles of Computing (Head TA)
