@@ -25,8 +25,8 @@ Email: `wenxind [at] uchicago.edu`
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
   - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 
-- [Lower Bounds on 0−1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
-(Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Prateek Mittal, Ben Y. Zhao)
+- [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
+(Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal)
   - Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023) (**Spotlight**)
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686)
