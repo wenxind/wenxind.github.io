@@ -20,12 +20,15 @@ Email: `wenxind [at] uchicago.edu`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publication
+- Towards Scalable and Robust Model Versioning
+(**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
+   - 2nd IEEE Conference on Secure and Trustworthy Machine Learning
 
 - [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
   - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 
-- [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://openreview.net/pdf?id=kZCV82rFI-)
+- [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://arxiv.org/abs/2302.10722)
 (Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal)
   - Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023) (**Spotlight**)
 
