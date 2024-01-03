@@ -1,6 +1,6 @@
 # About Me
 
-I am a third-year PhD student in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/). My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by Prof. Nihar B. Shah and Prof. Weina Wang. 
+I am a third-year PhD student in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/). My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by [Prof. Nihar Shah](https://www.cs.cmu.edu/~nihars/) and [Prof. Weina Wang](https://www.cs.cmu.edu/~weinaw/). 
 
 
 
