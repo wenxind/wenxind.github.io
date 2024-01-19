@@ -20,7 +20,7 @@ Email: `wenxind [at] uchicago.edu`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publication
-- Towards Scalable and Robust Model Versioning
+- [Towards Scalable and Robust Model Versioning](https://arxiv.org/abs/2401.09574)
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
    - 2nd IEEE Conference on Secure and Trustworthy Machine Learning
 
