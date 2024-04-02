@@ -26,6 +26,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
+  - 45th IEEE Symposium on Security and Privacy (S&P 2024)
   - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 
 - [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://arxiv.org/abs/2302.10722)
