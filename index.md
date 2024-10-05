@@ -20,7 +20,7 @@ Email: `wenxind [at] uchicago.edu`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publication
-- Understanding Implosion in  Text-to-Image Generative Models
+- [Understanding Implosion in  Text-to-Image Generative Models](https://arxiv.org/abs/2409.12314){:target="_blank"}
 (**Wenxin Ding**, Cathy Li, Shawn Shan, Ben Y. Zhao, Haitao Zheng)
    - 2024 ACM Conference on Computer and Communications Security (CCS)
 
