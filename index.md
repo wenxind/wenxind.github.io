@@ -28,7 +28,7 @@ Email: `wenxind [at] uchicago.edu`
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
    - *[2nd IEEE Conference on Secure and Trustworthy Machine Learning (click for video presentation)](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}*
 
-- [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828){:target="_blank"}
+- [Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828){:target="_blank"}
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
   - 45th IEEE Symposium on Security and Privacy (S&P 2024)
   - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
