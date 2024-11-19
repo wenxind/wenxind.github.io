@@ -22,15 +22,15 @@ Email: `wenxind [at] uchicago.edu`
 ## Publication
 - [Understanding Implosion in  Text-to-Image Generative Models](https://arxiv.org/abs/2409.12314){:target="_blank"}
 (**Wenxin Ding**, Cathy Li, Shawn Shan, Ben Y. Zhao, Haitao Zheng)
-   - *[2024 ACM Conference on Computer and Communications Security (CCS) (click for video presentation)](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}*
+   - 2024 ACM Conference on Computer and Communications Security (CCS) *[video](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}*
 
 - [Towards Scalable and Robust Model Versioning](https://arxiv.org/abs/2401.09574){:target="_blank"}
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
-   - *[2nd IEEE Conference on Secure and Trustworthy Machine Learning (click for video presentation)](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}*
+   - 2nd IEEE Conference on Secure and Trustworthy Machine Learning *[video](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}*
 
 - [Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828){:target="_blank"}
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
-  - 45th IEEE Symposium on Security and Privacy (S&P 2024)
+  - 45th IEEE Symposium on Security and Privacy (S&P 2024) *[website](https://nightshade.cs.uchicago.edu/){:target="_blank"}*
   - [MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
 
 - [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://arxiv.org/abs/2302.10722){:target="_blank"}
@@ -39,16 +39,16 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686){:target="_blank"}
 (Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
-  - 2022 ACM Conference on Computer and Communications Security (CCS)
+  - 2022 ACM Conference on Computer and Communications Security (CCS) *[website](https://sandlab.cs.uchicago.edu/recovery/){:target="_blank"}*
 
 - [Calibration with Privacy in Peer Review](https://arxiv.org/abs/2201.11308){:target="_blank"}
 (**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
   - 2022 IEEE International Symposium on Information Theory (ISIT)
-  - *[2022 AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop spotlight (click for video presentation)](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
+  - 2022 AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) workshop spotlight *[video](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}*
 
 - [On the Privacy-Utility Tradeoff in Peer-Review Data Analysis](https://arxiv.org/abs/2006.16385){:target="_blank"}
 (**Wenxin Ding**, Nihar B. Shah, Weina Wang)
-  - *[2021 AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop spotlight (click for video presentation)](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}*
+  - 2021 AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop spotlight *[video](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}*
 
 
 ## Teaching Assistant
