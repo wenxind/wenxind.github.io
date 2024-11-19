@@ -35,7 +35,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker](https://arxiv.org/abs/2302.10722){:target="_blank"}
 (Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal)
-  - 2023 Conference on Neural Information Processing Systems (NeurIPS) (**Spotlight**)
+  - 2023 Conference on Neural Information Processing Systems (NeurIPS) (**Spotlight**) -- *[video](https://neurips.cc/virtual/2023/poster/72968){:target="_blank"}*
 
 - [Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models](https://arxiv.org/abs/2205.10686){:target="_blank"}
 (Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
