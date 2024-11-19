@@ -22,7 +22,7 @@ Email: `wenxind [at] uchicago.edu`
 ## Publication
 - [Understanding Implosion in  Text-to-Image Generative Models](https://arxiv.org/abs/2409.12314){:target="_blank"}
 (**Wenxin Ding**, Cathy Li, Shawn Shan, Ben Y. Zhao, Haitao Zheng)
-   - 2024 ACM Conference on Computer and Communications Security (CCS)
+   - *[2024 ACM Conference on Computer and Communications Security (CCS) (click for video presentation)](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}*
 
 - [Towards Scalable and Robust Model Versioning](https://arxiv.org/abs/2401.09574){:target="_blank"}
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
