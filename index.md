@@ -26,7 +26,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [Towards Scalable and Robust Model Versioning](https://arxiv.org/abs/2401.09574){:target="_blank"}
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
-   - 2024 IEEE Conference on Secure and Trustworthy Machine Learning -- *[video](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}*
+   - 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) -- *[video](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}*
 
 - [Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828){:target="_blank"}
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
