@@ -23,12 +23,12 @@ Email: `wenxind [at] uchicago.edu`
 - Understanding Implosion in  Text-to-Image Generative Models
 (**Wenxin Ding**, Cathy Li, Shawn Shan, Ben Y. Zhao, Haitao Zheng)
    - 2024 ACM Conference on Computer and Communications Security (CCS)
-   - [[paper]](https://arxiv.org/abs/2409.12314){:target="_blank"}, [[video]](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}
+   - [[paper]](https://arxiv.org/abs/2409.12314){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}
 
 - Towards Scalable and Robust Model Versioning
 (**Wenxin Ding**, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng)
    - 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
-   - [[paper]](https://arxiv.org/abs/2401.09574){:target="_blank"}, [[video]](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}
+   - [[paper]](https://arxiv.org/abs/2401.09574){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}
 
 - Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models
 (Shawn Shan, **Wenxin Ding**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao)
@@ -38,7 +38,7 @@ Email: `wenxind [at] uchicago.edu`
 - Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker
 (Sihui Dai\*, **Wenxin Ding\***, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal)
   - 2023 Conference on Neural Information Processing Systems (NeurIPS) (**Spotlight**)
-  - [[paper]](https://arxiv.org/abs/2302.10722){:target="_blank"}, [[video]](https://neurips.cc/virtual/2023/poster/72968){:target="_blank"}
+  - [[paper]](https://arxiv.org/abs/2302.10722){:target="_blank"}, [[presentation video]](https://neurips.cc/virtual/2023/poster/72968){:target="_blank"}
 
 - Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models
 (Shawn Shan, **Wenxin Ding**, Emily Wenger, Haitao Zheng, Ben Y. Zhao)
@@ -49,12 +49,12 @@ Email: `wenxind [at] uchicago.edu`
 (**Wenxin Ding**, Gautam Kamath, Weina Wang, Nihar B Shah)
   - 2022 IEEE International Symposium on Information Theory (ISIT)
   - 2022 AAAI Privacy-Preserving Artificial Intelligence (PPAI) Workshop (**Spotlight**)
-  - [[paper]](https://arxiv.org/abs/2201.11308){:target="_blank"}, [[video]](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}
+  - [[paper]](https://arxiv.org/abs/2201.11308){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=t5M4Srdj1zU){:target="_blank"}
 
 - On the Privacy-Utility Tradeoff in Peer-Review Data Analysis
 (**Wenxin Ding**, Nihar B. Shah, Weina Wang)
   - 2021 AAAI Privacy-Preserving Artificial Intelligence (PPAI) Workshop (**Spotlight**)
-  - [[paper]](https://arxiv.org/abs/2006.16385){:target="_blank"}, [[video]](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}
+  - [[paper]](https://arxiv.org/abs/2006.16385){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}
 
 
 ## Teaching Assistant
