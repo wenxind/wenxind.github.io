@@ -32,7 +32,7 @@ Email: `wenxind [at] uchicago.edu`
   - 2024 IEEE Symposium on Security and Privacy (S&P)
   - [[paper]](https://arxiv.org/abs/2310.13828){:target="_blank"}, [[website]](https://nightshade.cs.uchicago.edu/){:target="_blank"}, [[media coverage]](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
 
-- **Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker** -- Sihui Dai^*, <ins>Wenxin Ding^*</ins>, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal
+- **Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker** -- Sihui Dai\*, <ins>Wenxin Ding\*</ins>, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal
   - 2023 Conference on Neural Information Processing Systems (NeurIPS) (**Spotlight**)
   - [[paper]](https://arxiv.org/abs/2302.10722){:target="_blank"}, [[presentation video]](https://neurips.cc/virtual/2023/poster/72968){:target="_blank"}
 
