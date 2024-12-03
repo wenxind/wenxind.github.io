@@ -10,7 +10,7 @@ Email: `wenxind [at] uchicago.edu`
 ## Education
 
 ### University of Chicago
-- PhD student in **Computer Science** 2021--2026
+- Ph.D. in **Computer Science** 2021--2026
 
 ### Carnegie Mellon University
 - M.S. in **Computer Science -- Research Thesis** 2020--2021
