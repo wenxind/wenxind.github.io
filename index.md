@@ -30,7 +30,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - **Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models** --- Shawn Shan, <ins>Wenxin Ding</ins>, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
   - 2024 IEEE Symposium on Security and Privacy (S&P)
-  - [[paper]](https://arxiv.org/abs/2310.13828){:target="_blank"}, [[website]](https://nightshade.cs.uchicago.edu/){:target="_blank"}, [[media coverage]](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
+  - [[paper]](https://arxiv.org/abs/2310.13828){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=3XSHI5vezR8){:target="_blank"}, [[website]](https://nightshade.cs.uchicago.edu/){:target="_blank"}, [[media coverage]](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
 
 - **Characterizing the Optimal 0-1 Loss for Multi-class Classification with a Test-time Attacker** --- Sihui Dai\*, <ins>Wenxin Ding\*</ins>, Arjun Nitin Bhagoji, Daniel Cullina, Ben Y. Zhao, Haitao Zheng, Prateek Mittal
   - 2023 Conference on Neural Information Processing Systems (NeurIPS) (**Spotlight**)
