@@ -53,6 +53,7 @@ Email: `wenxind [at] uchicago.edu`
 ## Teaching Assistant
 
 ### University of Chicago
+- CMSC 25800: Adversarial Machine Learning
 - CMSC 25300/35300 Mathematical Foundations of Machine Learning
 
 ### Carnegie Mellon University
