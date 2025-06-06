@@ -1,6 +1,6 @@
 # About Me
 
-I am a fourth-year PhD student in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/){:target="_blank"} and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/){:target="_blank"}. My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by [Prof. Nihar Shah](https://www.cs.cmu.edu/~nihars/){:target="_blank"} and [Prof. Weina Wang](https://www.cs.cmu.edu/~weinaw/){:target="_blank"}. 
+I am a fourth-year PhD candidate in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/){:target="_blank"} and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/){:target="_blank"}. My research focuses on **security and privacy in machine learning**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by [Prof. Nihar Shah](https://www.cs.cmu.edu/~nihars/){:target="_blank"} and [Prof. Weina Wang](https://www.cs.cmu.edu/~weinaw/){:target="_blank"}. 
 
 
 
@@ -62,6 +62,7 @@ Email: `wenxind [at] uchicago.edu`
 
 ## Awards
 
+- 2025 University of Chicago William Rainey Harper Dissertation Fellowship
 - 2024 University of Chicago UU Fellowship
 - 2021 University of Chicago Eckhardt Scholar
 - [2020 Carnegie Mellon University Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr){:target="_blank"}
