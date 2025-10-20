@@ -20,6 +20,9 @@ Email: `wenxind [at] uchicago.edu`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publication
+- **AILuminate Security Introducing v0.5 of the Jailbreak Benchmark from MLCommons** (preprint)
+  - [[paper]](https://mlcommons.org/wp-content/uploads/2025/10/MLCommons___Security___Jailbreak_0_5_Paper-5.pdf){:target="_blank"}
+
 - **Understanding Implosion in  Text-to-Image Generative Models** --- <ins>Wenxin Ding</ins>, Cathy Li, Shawn Shan, Ben Y. Zhao, Haitao Zheng
    - 2024 ACM Conference on Computer and Communications Security (CCS)
    - [[paper]](https://arxiv.org/abs/2409.12314){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=zlvs2DiAOJQ){:target="_blank"}
