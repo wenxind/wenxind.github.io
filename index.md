@@ -57,7 +57,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - [2025 University of Chicago William Rainey Harper Dissertation Fellowship](https://physicalsciences.uchicago.edu/news/article/psd-recognizes-three-students-with-a-william-rainey-harper-dissertation-fellowship-for-2025-26/){:target="_blank"}
 - 2024 University of Chicago UU Fellowship
-- 2021 --- 2026 University of Chicago Eckhardt Scholar
+- 2021 -- 2026 University of Chicago Eckhardt Scholar
 - [2020 Carnegie Mellon University Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr){:target="_blank"}
 - [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
 - 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
