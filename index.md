@@ -19,7 +19,7 @@ Email: `wenxind [at] uchicago.edu`
 
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
-## Publication
+## Publications
 - **AILuminate Security Introducing v0.5 of the Jailbreak Benchmark from MLCommons** (preprint) --- James Goel et al
   - [[paper]](https://mlcommons.org/wp-content/uploads/2025/10/MLCommons___Security___Jailbreak_0_5_Paper-5.pdf){:target="_blank"}
 
@@ -53,6 +53,15 @@ Email: `wenxind [at] uchicago.edu`
   - [[paper]](https://arxiv.org/abs/2006.16385){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}
 
 
+## Awards
+
+- [2025 University of Chicago William Rainey Harper Dissertation Fellowship](https://physicalsciences.uchicago.edu/news/article/psd-recognizes-three-students-with-a-william-rainey-harper-dissertation-fellowship-for-2025-26/){:target="_blank"}
+- 2024 University of Chicago UU Fellowship
+- 2021 University of Chicago Eckhardt Scholar
+- [2020 Carnegie Mellon University Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr){:target="_blank"}
+- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
+- 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
+
 ## Teaching Assistant
 
 ### University of Chicago
@@ -63,17 +72,6 @@ Email: `wenxind [at] uchicago.edu`
 - 15110 Principles of Computing (Head TA)
 - 15213 Introduction to Computer Systems
 - 15440 Distributed Systems
-
-## Awards
-
-- [2025 University of Chicago William Rainey Harper Dissertation Fellowship](https://physicalsciences.uchicago.edu/news/article/psd-recognizes-three-students-with-a-william-rainey-harper-dissertation-fellowship-for-2025-26/){:target="_blank"}
-- 2024 University of Chicago UU Fellowship
-- 2021 University of Chicago Eckhardt Scholar
-- [2020 Carnegie Mellon University Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr){:target="_blank"}
-- [2019 Mark Stehlik SCS Alumni Undergraduate Impact Scholarship](https://www.scs.cmu.edu/news/ding-earns-2019-stehlik-scholarship){:target="_blank"}
-- 2017 William Lowell Putnam Mathematical Competition (Rank: 255 / 4638)
-
-
 
 
 
