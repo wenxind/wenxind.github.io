@@ -31,7 +31,7 @@ Email: `wenxind [at] uchicago.edu`
    - 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
    - [[paper]](https://arxiv.org/abs/2401.09574){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=236Pk_FE7jg){:target="_blank"}
 
-- **Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models** --- Shawn Shan, <ins>Wenxin Ding</ins>, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
+- **Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models** --- Shawn Shan, <ins>Wenxin Ding</ins>, Josephine Passananti, Stanley Wu, Haitao Zheng, Ben Y. Zhao
   - 2024 IEEE Symposium on Security and Privacy (S&P)
   - [[paper]](https://arxiv.org/abs/2310.13828){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=3XSHI5vezR8){:target="_blank"}, [[website]](https://nightshade.cs.uchicago.edu/){:target="_blank"}, [[media coverage]](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/){:target="_blank"}
 
