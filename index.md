@@ -20,7 +20,7 @@ Email: `wenxind [at] uchicago.edu`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publications
-- **Safe but not Robust: Security Evaluation of VLM by Jailbreaking MSTS** --- <ins>Wenxin Ding\*</ins>, Cong Chen, Jean-Philippe Monteuuis, Jonathan Petit
+- **Safe but not Robust: Security Evaluation of VLM by Jailbreaking MSTS** --- <ins>Wenxin Ding</ins>, Cong Chen, Jean-Philippe Monteuuis, Jonathan Petit
   - 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
 
 - **AILuminate Security Introducing v0.5 of the Jailbreak Benchmark from MLCommons** (preprint) --- James Goel et al
