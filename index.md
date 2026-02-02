@@ -1,10 +1,10 @@
 # About Me
 
-I am a final year PhD candidate in the Computer Science department at **University of Chicago**. I am advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/){:target="_blank"} and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/){:target="_blank"}. My research focuses on **machine learning security**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by [Prof. Nihar Shah](https://www.cs.cmu.edu/~nihars/){:target="_blank"} and [Prof. Weina Wang](https://www.cs.cmu.edu/~weinaw/){:target="_blank"}. 
+I received my PhD from **University of Chicago** Computer Science. I was advised by [Prof. Heather Zheng](http://people.cs.uchicago.edu/~htzheng/){:target="_blank"} and [Prof. Ben Zhao](http://people.cs.uchicago.edu/~ravenben/){:target="_blank"} researching on **machine learning security**. I received my bachelor’s degrees in Computer Science and Mathematical Sciences with a minor in Computational Finance from Carnegie Mellon University in 2020. I received my master's degree in Computer Science -- Research Thesis from Carnegie Mellon University in 2021, jointly advised by [Prof. Nihar Shah](https://www.cs.cmu.edu/~nihars/){:target="_blank"} and [Prof. Weina Wang](https://www.cs.cmu.edu/~weinaw/){:target="_blank"}. 
 
 
 
-Email: `wenxind [at] uchicago.edu`
+Email: `wenxind98 [at] gmail.com`
 
 
 ## Education
