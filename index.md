@@ -56,7 +56,7 @@ Email: `wenxind98 [at] gmail.com`
 
 - **On the Privacy-Utility Tradeoff in Peer-Review Data Analysis** --- <ins>Wenxin Ding</ins>, Nihar B. Shah, Weina Wang
   - 2021 AAAI Privacy-Preserving Artificial Intelligence (PPAI) Workshop (**Spotlight**)
-  - [[paper]](https://arxiv.org/abs/2006.16385){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}
+  - [[paper]](https://arxiv.org/abs/2006.16385){:target="_blank"}, [[presentation video]](https://www.youtube.com/watch?v=SoMBIdWKoNY){:target="_blank"}, [[poster]](https://www.cs.cmu.edu/~tcortina/thesis/ding.pdf{:target="_blank"})
 
 
 ## Awards
