@@ -20,6 +20,9 @@ Email: `wenxind98 [at] gmail.com`
 - B.S. (Hons) in **Mathematical Sciences** 2016--2020
 
 ## Publications
+- **An Empirical Analysis of AI Slop in Music Streaming** --- Stanley Wu, Josephine Passananti, Viresh Mittal, <ins>Wenxin Ding</ins>, Haitao Zheng, Ben Y. Zhao
+  - [[paper]](https://arxiv.org/abs/2606.18052){:target="_blank"}
+
 - **Safe but not Robust: Security Evaluation of VLM by Jailbreaking MSTS** --- <ins>Wenxin Ding</ins>, Cong Chen, Jean-Philippe Monteuuis, Jonathan Petit
   - 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
 
