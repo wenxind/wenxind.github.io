@@ -28,7 +28,7 @@ Email: `wenxind98 [at] gmail.com`
   - [[paper]](https://ieeexplore.ieee.org/abstract/document/11691750){:target="_blank"}
 
 - **AILuminate Security Introducing v0.5 of the Jailbreak Benchmark from MLCommons** (preprint) --- James Goel et al
-  - [[MLCommons AILuminate Jailbreak Benchmark]](https://mlcommons.org/ailuminate/jailbreak/){:target="_blank"}
+  - [MLCommons AILuminate Jailbreak Benchmark](https://mlcommons.org/ailuminate/jailbreak/){:target="_blank"}
   - [[paper]](https://mlcommons.org/wp-content/uploads/2025/10/MLCommons___Security___Jailbreak_0_5_Paper-5.pdf){:target="_blank"}
 
 - **Identifying Provenance of Generative Text-to-Image Models** --- Anna Yoo Jeong Ha, <ins>Wenxin Ding\*</ins>, Stanley Wu\*, Shawn Shan, Haitao Zheng, Ben Y. Zhao
